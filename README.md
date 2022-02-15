@@ -34,5 +34,4 @@
 
     ### Screens
     
-    <!-- <img src="/img/screen-splash.PNG" width="20%" height="20%"/> <img src="/img/screen-plain.PNG" width="20%" height="20%"/>
-    <img src="/img/screen-input.PNG" width="20%" height="20%"/> <img src="/img/screen-list01.PNG" width="20%" height="20%"/> -->
+    <img src="/assets/weather-app01.gif" width="30%" height="30%"/> <img src="/assetes/weather-app02.gif" width="30%" height="30%"/>
