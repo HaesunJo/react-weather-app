@@ -34,4 +34,4 @@
 
     ### Screens
     
-    <img src="/assets/weather-app01.gif" width="30%" height="30%"/> <img src="/assetes/weather-app02.gif" width="30%" height="30%"/>
+    <img src="/assets/weather-app01.gif" width="30%" height="30%"/> <img src="/assets/weather-app02.gif" width="30%" height="30%"/>
