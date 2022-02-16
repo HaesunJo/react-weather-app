@@ -18,6 +18,13 @@
 
 
 
+## What I learn from this project is:
+- How to bring [weather API](https://openweathermap.org/api) and read the location data that longitude and latitude.
+- How to diplay the data on the screen such as weather, date, weather descriptions.
+- Making a diffrent layout with <View> tag
+
+
+
 ## Demo
 
 - Link :  https://expo.dev/@haillie/WeatherApp
