@@ -27,14 +27,13 @@
 ## Challenge part
 
 - Reading geolocation information, because React Native no longer supports geolocation(Deprecated)
-- A hook should be used that supported by Expo Go:
+  A hook should be used that supported by Expo Go:
 ```javascript
-        // useBackgroundPermission()
-        
+        // useForegroundPermissions()
         // example
-        const [status, requestPermission] = Location.useBackgroundPermissions();
+        const [status, requestPermission] = Location.useForegroundPermissions();
 ```
-
+  This app shouldn't use location information anytime when they are not using it, so a hook 'useForegroundPermissions()' used
 
 - I wanted to put the date, but the format was, for example,
 
