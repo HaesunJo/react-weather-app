@@ -1,4 +1,4 @@
-# React project - Check your list
+# React Native project - Check your list
 
 <!-- ![logo](assets/icon-checkyourlist.png) -->
 <img src="/assets/icon-weather.png" width="30%" height="30%"/>
